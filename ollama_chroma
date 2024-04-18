@@ -7,4 +7,6 @@ pip install unstructured[all-docs]
 vs code 껐다가 재 실행
 
 ollama pull nomic-embed-text
+ollama pull mistral
+
 
